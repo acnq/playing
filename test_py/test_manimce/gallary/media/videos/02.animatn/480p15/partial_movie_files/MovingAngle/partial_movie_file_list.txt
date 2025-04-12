@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/02.animatn/480p15/partial_movie_files/MovingAngle/1185818338_2688965532_671428979.mp4'
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/02.animatn/480p15/partial_movie_files/MovingAngle/624642324_2804737670_3337309299.mp4'
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/02.animatn/480p15/partial_movie_files/MovingAngle/624642324_1503068568_1328578651.mp4'
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/02.animatn/480p15/partial_movie_files/MovingAngle/624642324_1295734439_1323654777.mp4'
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/02.animatn/480p15/partial_movie_files/MovingAngle/624642324_1567540364_1032969641.mp4'

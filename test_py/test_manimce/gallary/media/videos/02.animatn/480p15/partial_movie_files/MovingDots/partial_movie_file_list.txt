@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/02.animatn/480p15/partial_movie_files/MovingDots/1185818338_1115278483_3684810649.mp4'
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/02.animatn/480p15/partial_movie_files/MovingDots/624642324_1566209646_1687655860.mp4'
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/02.animatn/480p15/partial_movie_files/MovingDots/624642324_2688965532_3257668300.mp4'
