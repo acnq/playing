@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/04.camera/480p15/partial_movie_files/FixedInFrameMObjectTests/1460479648_4073845205_1482780534.mp4'

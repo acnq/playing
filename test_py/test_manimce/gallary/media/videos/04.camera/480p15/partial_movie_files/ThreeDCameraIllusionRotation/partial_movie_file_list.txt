@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/fanyu/test/test_py/test_manimce/gallary/media/videos/04.camera/480p15/partial_movie_files/ThreeDCameraIllusionRotation/2916434187_449258167_1046686034.mp4'
